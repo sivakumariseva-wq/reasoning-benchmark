@@ -1,0 +1,12 @@
+[
+  {"id": "arith-1", "category": "arithmetic", "question": "A notebook costs 3 dollars and a pen costs 2 dollars. How much do 4 notebooks and 5 pens cost in dollars?", "answer": 22},
+  {"id": "arith-2", "category": "arithmetic", "question": "Maya reads 25 pages a day. How many pages does she read in 2 weeks?", "answer": 350},
+  {"id": "arith-3", "category": "arithmetic", "question": "A class of 30 students splits into groups of 4. How many students are left over?", "answer": 2},
+  {"id": "pct-1", "category": "percentages", "question": "A jacket costs 80 dollars and is on sale for 25 percent off. What is the sale price in dollars?", "answer": 60},
+  {"id": "pct-2", "category": "percentages", "question": "A town of 12000 people grows by 5 percent. What is the new population?", "answer": 12600},
+  {"id": "rate-1", "category": "rates", "question": "A train travels 180 km in 3 hours. At the same speed, how many km does it travel in 5 hours?", "answer": 300},
+  {"id": "rate-2", "category": "rates", "question": "Two pipes fill a tank. One fills it in 6 hours, the other in 3 hours. How many hours do they take together?", "answer": 2},
+  {"id": "logic-1", "category": "logic", "question": "Sam is older than Lee. Lee is older than Kim. Kim is 10 and each gap is 3 years. How old is Sam?", "answer": 16},
+  {"id": "logic-2", "category": "logic", "question": "If today is Wednesday, what day number of the week (Monday = 1) is it 10 days from now?", "answer": 6},
+  {"id": "logic-3", "category": "logic", "question": "A farmer has 17 sheep. All but 9 run away. How many sheep are left?", "answer": 9}
+]

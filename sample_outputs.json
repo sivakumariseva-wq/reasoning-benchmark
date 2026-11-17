@@ -1,0 +1,12 @@
+{
+  "A notebook costs 3 dollars and a pen costs 2 dollars. How much do 4 notebooks and 5 pens cost in dollars?": "4 notebooks = 4 x 3 = 12. 5 pens = 5 x 2 = 10. Total = 22.\nAnswer: 22",
+  "Maya reads 25 pages a day. How many pages does she read in 2 weeks?": "2 weeks = 14 days. 25 x 14 = 350.\nAnswer: 350",
+  "A class of 30 students splits into groups of 4. How many students are left over?": "30 / 4 = 7 groups with 28 students. 30 - 28 = 2.\nAnswer: 2",
+  "A jacket costs 80 dollars and is on sale for 25 percent off. What is the sale price in dollars?": "25% of 80 is 20. 80 - 20 = 60.\nAnswer: 60",
+  "A town of 12000 people grows by 5 percent. What is the new population?": "5% of 12,000 is 600. 12,000 + 600 = 12,600.\nAnswer: 12,600",
+  "A train travels 180 km in 3 hours. At the same speed, how many km does it travel in 5 hours?": "Speed = 60 km/h. 60 x 5 = 300.\nAnswer: 300",
+  "Two pipes fill a tank. One fills it in 6 hours, the other in 3 hours. How many hours do they take together?": "Average of 6 and 3 is 4.5 hours.\nAnswer: 4.5",
+  "Sam is older than Lee. Lee is older than Kim. Kim is 10 and each gap is 3 years. How old is Sam?": "Lee = 13, Sam = 16.\nAnswer: 16",
+  "If today is Wednesday, what day number of the week (Monday = 1) is it 10 days from now?": "Wednesday is day 3. 10 days later: 3 + 10 = 13, 13 mod 7 = 6, which is Saturday.\nAnswer: 6",
+  "A farmer has 17 sheep. All but 9 run away. How many sheep are left?": "17 - 9 = 8 sheep left.\nAnswer: 8"
+}
